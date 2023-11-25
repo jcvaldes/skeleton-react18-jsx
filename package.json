@@ -21,8 +21,7 @@
   "homepage": "https://github.com/jcvaldes/skeleton-react18-jsx#readme",
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-hot-loader": "^4.13.1"
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.23.3",

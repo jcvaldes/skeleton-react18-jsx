@@ -5,7 +5,7 @@ npm i react react-dom
 ```
 
 ```
-npm install -D @babel/core @babel/preset-env @babel/preset-react babel-loader babel-plugin-transform-class-properties css-loader html-loader html-webpack-plugin react-hot-loader sass-loader style-loader webpack webpack-cli webpack-dev-server
+npm install -D @babel/core @babel/preset-env @babel/preset-react babel-loader babel-plugin-transform-class-properties css-loader html-loader html-webpack-plugin  sass-loader style-loader webpack webpack-cli webpack-dev-server
 ```
 
 # .prettierrc
